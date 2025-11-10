@@ -1,0 +1,5 @@
+run_storage:
+  module: dagster._core.storage.runs
+  class: SqliteRunStorage
+  config:
+    base_dir: /opt/dagster/dagster_home/history
