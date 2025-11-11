@@ -1,0 +1,5 @@
+# mac os service file
+.DS_Store
+
+# virtual environment
+/.currency_rates/
